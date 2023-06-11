@@ -5,7 +5,7 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'deliveroo-clone',
+  title: 'anetly-cms',
 
   projectId: 'ifjeky6r',
   dataset: 'production',
